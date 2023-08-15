@@ -99,7 +99,7 @@ soll in der Programmiersprache Python entwickelt werden.
 * Technische Anforderungen
 
 Die folgenden Ressourcen werden für die Realisierung des Projekts verwendet:
-• Ein Computer mit dem Windows 10 Betriebssystem
-• Python 3.8.3
-• Visual Studio Code-Entwicklungsumgebung
-• Python-Bibliothek Pygame
+- Ein Computer mit dem Windows 10 Betriebssystem
+- Python 3.8.3
+- Visual Studio Code-Entwicklungsumgebung
+- Python-Bibliothek Pygame
